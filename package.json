@@ -1,0 +1,28 @@
+{
+  "name": "@theorylabs/project-spectre",
+  "version": "0.0.1",
+  "private": true,
+  "license": "(MIT or SEE LICENSE IN 🍺T️HEORYLABS_LICENSE)",
+  "description": "[🍺️heoryLabs/Spectre] WIP - Coming soon..."
+  "author": {
+    "name": "Branden Dane",
+    "email": "Dane@TheoryLabs.dev",
+    "url": "WhoAmI.TheoryLabs.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoryLabs/Spectre.git"
+  },
+  "homepage": "https://github.com/TheoryLabs/Spectre#README",
+  "bugs": {
+    "url": "https://github.com/TheoryLabs/Spectre/issues",
+    "email": "Spectre-Issues@TheoryLabs.dev"
+  },
+  "type": "module",
+  "workspaces": [
+    "workspaces/**/*"
+  ],
+  "scripts": {
+    "test": "echo 'TODO test script!'"
+  }
+}
